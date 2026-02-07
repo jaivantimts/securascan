@@ -8,20 +8,20 @@
 
 A comprehensive cybersecurity dashboard integrating multiple security APIs for breach checking, password auditing, domain scanning, and security monitoring.
 
-## 🎯 Live Demo
+##  Live Demo
 - **Backend API:** `http://localhost:5000`
 - **Frontend Dashboard:** `http://localhost:3000`
 
-## ✨ Features
-- ✅ Email breach checking (HIBP + BreachDirectory)
-- ✅ Password security audit & breach checking
-- ✅ Domain reputation scanning (VirusTotal)
-- ✅ IP geolocation lookup
-- ✅ Security news feed (HackerNews)
-- ✅ API usage monitoring
-- ✅ Rate limiting & security headers
+## Features
+- Email breach checking (HIBP + BreachDirectory)
+- Password security audit & breach checking
+- Domain reputation scanning (VirusTotal)
+- IP geolocation lookup
+- Security news feed (HackerNews)
+- API usage monitoring
+- Rate limiting & security headers
 
-## 🚀 Quick Start
+##  Quick Start
 ```bash
 # 1. Clone repository
 git clone https://github.com/yourusername/SecuraScan-security.git
