@@ -1,4 +1,4 @@
-# SecuraScan - Cybersecurity Breach Checker
+﻿# SecuraScan - Cybersecurity Breach Checker
 
 ![Status](https://img.shields.io/badge/Status-Production_Ready-success)
 ![Backend](https://img.shields.io/badge/Backend-Node.js%2FExpress-green)
